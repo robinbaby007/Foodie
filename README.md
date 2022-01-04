@@ -1,1 +1,1 @@
-# Foodie app using Navigation components, Kotlin
+# Foodie app using Navigation components and Kotlin
